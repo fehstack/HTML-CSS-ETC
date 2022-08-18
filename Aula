@@ -83,6 +83,12 @@ Exemplo
     </ins>
 </p>
 
+<h3>  Abreviações Privadas  </h3>
+
+Utilizamos o código &lt;abbr&gt;.
+
+<p><abbr title = "Faculdade de Informática e Administração Paulista">FIAP</abbr></p>
+
 </body>
 
 
