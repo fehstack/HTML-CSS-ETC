@@ -1,0 +1,133 @@
+
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<meta charset="UTF-8">
+
+<style>
+    body {  
+        color:darkred;
+        background-color:black
+        
+        
+    }
+
+    p{
+        color:white;
+        background-color:purple
+    }
+
+</style>
+
+<!-- hr é uma linha horizontal-->
+
+<!-- Title serve para nomear a aba no navegador -->
+<!-- Para mostrar um comando dentro do bloco de codigo utilizaremos -->
+<!-- lt (menor) gt (maior) -->
+<!-- "i" serve para deixar seu codigo em italico.-->
+<!-- Para a programação com CSS utilizamos :, já em html "="-->
+
+<title>   
+
+Felipe 
+
+</title>
+
+
+
+<head>      
+<hr>
+
+
+<h1>  <b>  Aula HTML  </b> </h1>
+
+<hr>
+
+</head>
+
+
+
+<body>  
+
+
+<h3> <b> Para a criação do documento html instantaneo deve-se utilizar o comando html:5</b></h3>
+
+
+<h3> <b> &lt;br&gt;  </b>  </h3>
+
+
+O comando é responsavel pela quebra de linha
+
+<p>
+Meu nome é Felipe, <br> estudo na FIAP.
+</p>
+
+<h3> <b> Diferença de &lt;B&gt; e &lt;Strong&gt; </b> </h3>
+
+O comando "B" mantém apenas o comando em negrito, já o "Strong" da importancia ao conteudo.
+
+<h3> &lt;CITE&gt; </h3>
+
+Ajuda a mostrar as referencias bibliograficas.
+
+<cite> Extraido do site wikipedia </cite>
+
+<h3>  &lt;i&gt;  </h3>
+
+Serve para deixar o texto exclusivamente em italico, apenas.
+
+<h3>  Junção de Italico e Negrito  </h3>
+
+Devemos abrir os codigos &lt;b&gt; e &lt;i&gt; em ordem para poder ser aplicadas juntas.
+
+<p>
+    <b>
+        <i>
+Exemplo
+        </i>
+    </b>
+</p>
+
+
+<h3> Efeito de Deletado (Risco) </h3>    
+
+Utilizamos o codigo &lt;del&gt;.
+
+<p> 
+    <del>   
+        Exemplo
+    </del>
+</p>
+
+<h3>  Sublinhado  </h3>
+
+Utilizamos o codigo &lt;ins&gt;.
+
+<p>
+    <ins>
+Exemplo
+    </ins>
+</p>
+
+<h3>  Abreviações Privadas  </h3>
+
+Utilizamos o código &lt;abbr&gt;.
+
+<p><abbr title = "Faculdade de Informática e Administração Paulista">FIAP</abbr></p>
+
+<h3> HiperLinks </h3>
+
+Utilizamos o código &lt;a href=""&gt;.
+
+<p>
+<a href="https://pt.wikipedia.org/wiki/Wikip%C3%A9dia:P%C3%A1gina_principal"> Wikipédia </a>
+</p>
+
+
+
+</body>
+
+
+
+</html>
